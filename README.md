@@ -1,8 +1,10 @@
 # Suhi Research Solutions PhD Research Guide
 
-Welcome to the **PhD Research Guide**, a practical resource designed to help PhD scholars and researchers understand the major stages of academic research.
+Welcome to the PhD Research Guide by Suhi Research Solutions, a practical knowledge resource created to help PhD scholars, academic researchers, and research students understand the key stages of the research journey.
 
-This guide covers research topic selection, proposal development, literature review, research methodology, thesis preparation, data analysis, publication, and research ethics.
+Suhi Research Solutions provides research guidance and academic support resources covering research topic selection, research proposal development, literature review, research methodology, thesis and dissertation structure, data analysis, academic publishing, and research ethics.
+
+This repository brings together informative guides and structured resources to help researchers understand research concepts, explore appropriate methodologies, organize their academic work, and develop a clearer understanding of the research process.
 
 ## 📚 Topics Covered
 
