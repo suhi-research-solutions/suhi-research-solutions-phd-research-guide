@@ -1,4 +1,4 @@
-#Suhi Research Solutions PhD Research Guide
+# Suhi Research Solutions PhD Research Guide
 
 Welcome to the **PhD Research Guide**, a practical resource designed to help PhD scholars and researchers understand the major stages of academic research.
 
